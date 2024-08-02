@@ -17,5 +17,9 @@
 ```
 
 ## Screenshots
+
+### Mail (Daily Basis) 
 ![Daily Basis Mail](./screenshots/daily.png)
+
+### Mail (Weekly Basis)
 ![weekly Basis Mail](./screenshots/weekly.png)
