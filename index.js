@@ -18,7 +18,7 @@ connectDB();
 
 // Routes
 app.get('/', (req, res) => {
-  res.send('Welcome to the MERN stack car portal!');
+  res.send('Welcome to the Automated Email Scheduling API!');
 });
 // Use routes
 app.use('/email', emailRoute);
