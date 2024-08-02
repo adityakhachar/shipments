@@ -6,3 +6,8 @@
 ```bash
     git clone https://github.com/adityakhachar/shipments.git
 ```
+
+2. Install the package
+```bash
+    git install
+```
