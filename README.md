@@ -27,11 +27,11 @@
 
 ## Api's
 
-1. Create new Schedule[POST]
+1. Create new Scheduled Mail[POST]
 ```bash
     https://shipments.onrender.com/email/scheduled-emails
 ```
-2. Get list of Schedule[GET]
+2. Get list of All Scheduled Mail[GET]
 ```bash
     https://shipments.onrender.com/email/scheduled-emails
 ```
