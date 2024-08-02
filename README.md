@@ -11,3 +11,7 @@
 ```bash
     git install
 ```
+3. Start the server
+```bash
+    nodemon index.js
+```
