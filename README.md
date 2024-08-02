@@ -23,3 +23,24 @@
 
 ### Mail (Weekly Basis)
 ![weekly Basis Mail](./screenshots/weekly.png)
+
+
+## Api's
+
+1. Create new Schedule[POST]
+```bash
+    https://shipments.onrender.com/email/scheduled-emails
+```
+2. Get list of Schedule[GET]
+```bash
+    https://shipments.onrender.com/email/scheduled-emails
+```
+3. Fetch Scheduled mail by Id[GET]
+```bash
+    https://shipments.onrender.com/email/scheduled-emails/66aca314211e4e80e7ec034e
+```
+
+4. Delete Scheduled mail by Id[DELETE]
+```bash
+    https://shipments.onrender.com/email/scheduled-emails/66aca314211e4e80e7ec034e
+```
